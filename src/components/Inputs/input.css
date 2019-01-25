@@ -1,0 +1,18 @@
+.simple-input {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 15px;
+}
+
+.simple-input label {
+  color: #000;
+  font-size: 24px;
+}
+
+.simple-input input {
+  width: 20%;
+  height: 40px;
+  border: 0px solid #fff;
+  border-bottom: 2px solid gray;
+}
